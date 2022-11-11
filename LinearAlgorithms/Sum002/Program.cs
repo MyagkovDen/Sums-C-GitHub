@@ -1,0 +1,15 @@
+﻿Console.WriteLine("Введите число А");
+string numberA = Console.ReadLine();
+Console.WriteLine("Введите число B");
+string numberB = Console.ReadLine();
+Console.WriteLine("Введите число C");
+string numberC = Console.ReadLine();
+Console.WriteLine("Введите число D");
+string numberD = Console.ReadLine();
+Console.WriteLine("Введите число E");
+string numberE = Console.ReadLine();
+Console.WriteLine(numberA);
+Console.WriteLine(numberB);
+Console.WriteLine(numberC);
+Console.WriteLine(numberD);
+Console.WriteLine(numberE);
