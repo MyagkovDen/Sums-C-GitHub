@@ -1,5 +1,5 @@
-﻿int a = new Random().Next(1,123);
-int b = new Random().Next(4,667);
-int c = new Random().Next(12,90);
-int d = new Random().Next(56,99);
+﻿int a = new Random().Next(1,1000);
+int b = new Random().Next(1,1000);
+int c = new Random().Next(1,1000);
+int d = new Random().Next(1, 1000);
 Console.WriteLine($"{a}   {b}   {c}   {d}");
