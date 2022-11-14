@@ -1,12 +1,12 @@
-﻿Console.WriteLine("Введите число А");
+﻿Console.Write("Введите число А: ");
 string numberA = Console.ReadLine();
-Console.WriteLine("Введите число B");
+Console.Write("Введите число B: ");
 string numberB = Console.ReadLine();
-Console.WriteLine("Введите число C");
+Console.Write("Введите число C: ");
 string numberC = Console.ReadLine();
-Console.WriteLine("Введите число D");
+Console.Write("Введите число D: ");
 string numberD = Console.ReadLine();
-Console.WriteLine("Введите число E");
+Console.Write("Введите число E: ");
 string numberE = Console.ReadLine();
 Console.WriteLine(numberA);
 Console.WriteLine(numberB);
