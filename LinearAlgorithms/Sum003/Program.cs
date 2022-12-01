@@ -2,4 +2,11 @@
 
 // Console.WriteLine("3.14");
 
-Console.WriteLine(Math.PI);
+// double PI = Math.PI;
+
+// Console.WriteLine(PI);
+
+// string.Format("{0;N2}", Math.PI);
+// Math.Round(Math.PI);
+double PI = Math.PI;
+static double Round(double PI);
